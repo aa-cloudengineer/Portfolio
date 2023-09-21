@@ -1,5 +1,3 @@
-# Portfolio
-My project portfolio to accompany my CV
 
 # Data Engineering Portfolio
 
